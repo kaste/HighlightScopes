@@ -4,6 +4,7 @@ Really simple plugin. Open command palette, search for `Highlight Scopes interac
 
 The plugin will open an input widget (at the bottom of the window). Type scope names and algebraic compositions and the plugin will highlight the portions of your source code that matches.
 
+![fpexhpjsum](https://user-images.githubusercontent.com/8558/39362741-cb3eea32-4a27-11e8-8bc3-e0c4afba3c0f.gif)
 
 # Install
 
